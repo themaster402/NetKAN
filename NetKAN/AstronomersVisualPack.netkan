@@ -25,13 +25,13 @@
         { "name": "AVP-Textures" }
     ],
     "recommends" : [
-        { "name": "KS3P" },
-        { "name": "TextureReplacer" }
+        { "name": "KS3P" }
     ],
     "suggests" : [
         { "name": "DistantObject" },
         { "name": "PlanetShine" },
-        { "name": "Chatterer" }
+        { "name": "Chatterer" },
+        { "name": "TextureReplacer" }
     ],
     "provides" : [
         "EnvironmentalVisualEnhancements-Config"
